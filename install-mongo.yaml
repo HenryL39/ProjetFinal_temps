@@ -42,4 +42,4 @@
     name: "myUserAdmin"
     password: "abc123"
     roles: userAdminAnyDatabase
-    state: present
+state: present
